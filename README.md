@@ -4,6 +4,13 @@ wintersmith-image-generator
 Image generator for [Wintersmith](https://github.com/jnordberg/wintersmith)
 using [gm](https://www.npmjs.com/package/gm).
 
+## This is a Fork!
+. This is a Fork of [fusepilot/wintersmith-image-generator](https://github.com/fusepilot/wintersmith-image-generator) which supports the following extra features:
+ - group generated versions into their own content-group
+ - filter processed images using a glob-pattern
+
+Especially the first Change is not backward compatible, so I wouldn't want to open a PR for it.
+
 ## Installing
 
 Install globally or locally using npm
